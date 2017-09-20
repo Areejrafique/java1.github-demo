@@ -14,7 +14,16 @@ public class Java1GitHubDemo {
     public static void main(String[] args) {
         //sout
         System.out.println("Hello, world!");
-    
+     printname();
     }
+
     
 }
+
+    private static void printname() {
+       System.out.println("Linus Torvald");
+    }
+
+
+
+
